@@ -1,7 +1,7 @@
 
 # MovieSel
 
-MovieSel is a sophisticated machine-learning model designed to recommend movies tailored to your preferences. By analyzing ratings, votes, and population data.
+MovieSel is a sophisticated machine-learning model that recommends movies tailored to your preferences by analyzing ratings, votes, and population data.
 
 # Machine learning  | notebook
 
